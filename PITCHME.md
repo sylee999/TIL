@@ -9,10 +9,13 @@
 ### Learning how to learn?
 
 * coursera 강의
-* https://www.coursera.org/learn/learning-how-to-learn
+  * https://www.coursera.org/learn/learning-how-to-learn
+  * Dr. Babara Oakley, Dr. Terrence Sejnowski
+  * 4주 과정
 * 우연히 추천하는 내용을 접하게 됨 (twitter?)
-* 
+* 효율적으로 배우고 일하는 방법을 찾기 위해 수강
 
+![image](https://i.ytimg.com/vi/evLmw7UkSz0/hqdefault.jpg)
 ---
 
 ### Focused versus Diffuse Thinking
