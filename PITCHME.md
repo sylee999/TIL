@@ -1,7 +1,17 @@
 # Learning how to learn
 
-- Learning how to learn
-- 배우는 법을 배우기
+- Learning how to learn?
+- 그 외에 배운 것
+- 현실 적용
+
+---
+
+### Learning how to learn?
+
+* coursera 강의
+* https://www.coursera.org/learn/learning-how-to-learn
+* 우연히 추천하는 내용을 접하게 됨 (twitter?)
+* 
 
 ---
 
@@ -13,7 +23,7 @@
 
 ---
 
-#### Focused versus Diffuse Thinking
+### Focused versus Diffuse Thinking
 
 * Focused mode
 	* 좁은 공간의 고무범프 처럼 우리의 생각을 집중시켜줌
@@ -22,7 +32,7 @@
 
 ---
 
-## Focused versus Diffuse Thinking
+### Focused versus Diffuse Thinking
 * Diffuse mode
 	* 넓게 배치된 고무범프처럼 좀더 넓은 사고를 하게 함
 	* 새로운 문제 해결, 더 넒은 관점 필요, 뇌 휴지 상태
@@ -32,7 +42,7 @@
 
 ---
 
-## Procrastination, Memory, and Sleep
+### Procrastination, Memory, and Sleep
 * 뽀모도로 기법
 	* 뇌속 새로운 신경구조 형성위해 꾸준함이 중요
 	* 25분간 집중하고 휴식
@@ -52,7 +62,7 @@
 
 ---
 
-## Chunking—The Essentials
+### Chunking—The Essentials
 * chunk
 	* 정보의 단위, 이용과 의미 부여를 통해 묶임
 	* 중요한 생각 또는 행동을 종합하는 신경체계
@@ -72,14 +82,14 @@
 
 ---
 
-## Seeing the Bigger Picture
+### Seeing the Bigger Picture
 * Einstellung
 	* 최초의 생각, 이미 습득한 방법, 이미 잘 발전&강화한 신경형상이 더 나은 방법, 새로운 해결책을 수용하도록 유연해지는 것을 방해
 	* 운좋은 발견의 법칙은 유용. 새로운 시도. 항상 다른 것을 선택하면 좋은 결과
 
 ---
 
-## Procrastination
+### Procrastination
 * 좋은 학습은 조금씩 매일 견고한 발판을 쌓는 것과 관련 (역도선수 매일 근육 만들기)
 * 미루기 방지가 이래서 중요. 학습을 지속하고 벼락치기를 피해야.
 * 미루기 지연의 중요한 측면
@@ -97,7 +107,7 @@
 
 ---
 
-## Memory
+### Memory
 * 잘 훈련된 창의적 방법으로 기억력 배우면 도움
 * 강한 기억을 형성하는 거친 분산 연결 만들수 있음
 * 기억 체제 - chunk 능력과 관련 있음
