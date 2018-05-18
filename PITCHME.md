@@ -1,21 +1,3 @@
-# Flux 
-
-An application architecture for React
-
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
-
----
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
-
-
-
 # Learning how to learn
 
 Learning how to learn
@@ -34,6 +16,8 @@ Learning how to learn
 	* 산책, 샤워, 잠들기 전
 	* 어려운 문제, 난처한 상황
 	* 집중했다가 그냥 두고 여유를 가지면 의식못하는 사이 Diffused mode에서 뇌 활동
+
+![image](/learning-how-to-learn/images/1.png)
 
 ---
 
