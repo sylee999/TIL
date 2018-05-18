@@ -1,23 +1,34 @@
 # Learning how to learn
 
-Learning how to learn
-배우는 법을 배우기
+- Learning how to learn
+- 배우는 법을 배우기
 
 ---
 
 ## Focused versus Diffuse Thinking
+
+* Focused mode와 Diffuse mode
+
+![image](/learning-how-to-learn/images/1.png)
+
+---
+
+## Focused versus Diffuse Thinking
+
 * Focused mode
 	* 좁은 공간의 고무범프 처럼 우리의 생각을 집중시켜줌
 	* 전두엽에 더 집중되고 익숙한 생각을 포함
 	* 예) 곱셈, 단어 라임
+
+---
+
+## Focused versus Diffuse Thinking
 * Diffuse mode
 	* 넓게 배치된 고무범프처럼 좀더 넓은 사고를 하게 함
 	* 새로운 문제 해결, 더 넒은 관점 필요, 뇌 휴지 상태
 	* 산책, 샤워, 잠들기 전
 	* 어려운 문제, 난처한 상황
 	* 집중했다가 그냥 두고 여유를 가지면 의식못하는 사이 Diffused mode에서 뇌 활동
-
-![image](/learning-how-to-learn/images/1.png)
 
 ---
 
