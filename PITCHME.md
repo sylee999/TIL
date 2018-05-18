@@ -6,19 +6,37 @@
 
 ---
 
-### Learning how to learn?
+### Why learning how to learn?
 
-* coursera 강의
-  * https://www.coursera.org/learn/learning-how-to-learn
-  * Dr. Babara Oakley, Dr. Terrence Sejnowski
-  * 4주 과정
-* 우연히 추천하는 내용을 접하게 됨 (twitter?)
-* 효율적으로 배우고 일하는 방법을 찾기 위해 수강
+* 효율적으로 배우고 일하는 방법이 궁금하다.
+* 그 외에 참고한 책들
+  * 10만 시간의 재발견, 립잇업, 1등의 습관
+  * 기억력, 공부의 기술을 완성하다
 
-![image](https://i.ytimg.com/vi/evLmw7UkSz0/hqdefault.jpg)
 ---
 
-### Focused versus Diffuse Thinking
+### Learning how to learn
+
+* https://www.coursera.org/learn/learning-how-to-learn
+* Dr. Babara Oakley, Dr. Terrence Sejnowski
+
+![image](https://i.ytimg.com/vi/evLmw7UkSz0/hqdefault.jpg)
+
+---
+
+### 다루는 내용
+
+* Focused versus Diffuse Thinking
+* Procrastination, Memory, and Sleep
+* Chunking—The Essentials
+* Seeing the Bigger Picture
+* Procrastination
+* Memory
+* Renaissance Learning and Unlocking Your Potential
+
+---
+
+## Focused versus Diffuse Thinking
 
 * Focused mode와 Diffuse mode
 
@@ -26,42 +44,69 @@
 
 ---
 
-### Focused versus Diffuse Thinking
+### Focused mode (집중 모드)
 
-* Focused mode
-	* 좁은 공간의 고무범프 처럼 우리의 생각을 집중시켜줌
-	* 전두엽에 더 집중되고 익숙한 생각을 포함
-	* 예) 곱셈, 단어 라임
-
----
-
-### Focused versus Diffuse Thinking
-* Diffuse mode
-	* 넓게 배치된 고무범프처럼 좀더 넓은 사고를 하게 함
-	* 새로운 문제 해결, 더 넒은 관점 필요, 뇌 휴지 상태
-	* 산책, 샤워, 잠들기 전
-	* 어려운 문제, 난처한 상황
-	* 집중했다가 그냥 두고 여유를 가지면 의식못하는 사이 Diffused mode에서 뇌 활동
+* 핀볼의 좁은 공간의 고무범프처럼 우리의 생각을 집중시켜줌
+* 간단한 일부터 복잡한 일까지 문제를 이해하기 위한 모드. 전두엽에 집중.
+* 예) 곱셈, 단어 라임
 
 ---
 
-### Procrastination, Memory, and Sleep
+### Diffuse mode (분산 모드)
+
+* 핀볼의 넓게 배치된 고무범프처럼 좀더 넓은 사고를 하게 함
+* 새로운 문제 해결, 더 넒은 관점 필요, 뇌 휴지 상태
+* 산책, 샤워, 잠들기 전
+* 어려운 문제, 난처한 상황
+* 집중했다가 그냥 두고 여유를 가지면 의식못하는 사이 Diffused mode에서 뇌 활동
+
+---
+
+## Procrastination, Memory, and Sleep
+
 * 뽀모도로 기법
-	* 뇌속 새로운 신경구조 형성위해 꾸준함이 중요
-	* 25분간 집중하고 휴식
-	* 연습과 반복을 통해 새로운 것 배울 때 신경 구조를 확장하고 강화할 수 있음
 * 단기 기억 영역
-	* 4개의 자리가 있음
-	* 반복 기억하지 않으면 네 자리에서 지워짐
-	* 단기 기억 영역은 칠판과 비슷
-	* 장기 기억 영역은 창고과 비슷
-	* 반복을 통해 장기 기억 영역에 저장하면 나중에 필요시 기억
-	* 기억을 새롭게 하기 위해 반복이 필요. 하루에 여러번 반복은 안좋음.(하루에 근육만들기)
 * 잠의 중요성
-	* 낮에 쌓이 독성 물질을 씻어내는 역할
-	* 시험이나 어려운 일 전에는 충분히 자야 함
 * 연습
-	* 기억력과 학습능력을 배양하는데 중요
+
+---
+
+### 미루기와 꾸준함
+
+* 하고 싶지 않은 일을 보고 있을 때 고통 관련 뇌 영역 활성화, 시작하면 불편함이 사라짐
+* 뇌속 새로운 신경구조는 단기간에 형성 안되므로, 형성위해 꾸준함이 중요
+* 연습과 반복을 통해 새로운 것 배울 때 신경 구조를 확장하고 강화할 수 있음
+* 이를 위해 뽀모도로 기법을 사용해보자.
+
+---
+
+### 뽀모도로 기법
+
+![image](/learning-how-to-learn/images/3.png)
+
+---
+
+### 단기 기억과 장기 기억
+
+* 단기 기억을 위해 4개의 자리가 있고, 반복하지 않으면 지워짐
+* 반복을 통해 장기 기억 영역에 저장하면 나중에 필요시 기억
+* 기억을 새롭게 하기 위해 주기적 반복이 필요. 하루에 여러번 반복은 안좋음.(하루에 근육만들기)
+
+---
+
+### 단기 기억과 장기 기억
+
+* 단기 기억 영역은 칠판, 장기 기억 영역은 창고와 비슷
+
+![image](/learning-how-to-learn/images/2.png)
+
+---
+
+### 잠의 중요성
+
+* 낮에 쌓이 독성 물질을 씻어내는 역할
+* 자는 동안 어려운 부분을 깊게 만들고 강화하는 연습을 함 (Focused mode --> Diffused mode)
+* 시험이나 어려운 일 전에는 충분히 자야 함
 
 ---
 
@@ -111,6 +156,7 @@
 ---
 
 ### Memory
+
 * 잘 훈련된 창의적 방법으로 기억력 배우면 도움
 * 강한 기억을 형성하는 거친 분산 연결 만들수 있음
 * 기억 체제 - chunk 능력과 관련 있음
