@@ -5,7 +5,7 @@
 
 ---
 
-## Focused versus Diffuse Thinking
+### Focused versus Diffuse Thinking
 
 * Focused mode와 Diffuse mode
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Focused versus Diffuse Thinking
+#### Focused versus Diffuse Thinking
 
 * Focused mode
 	* 좁은 공간의 고무범프 처럼 우리의 생각을 집중시켜줌
