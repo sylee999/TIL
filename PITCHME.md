@@ -179,10 +179,7 @@
 
 ### Habits have four parts
 
-1.The cue
-2.The routine
-3.The reward
-4.The belief
+![image](/learning-how-to-learn/images/10.png)
 
 ---
 
@@ -199,8 +196,8 @@
 ### Memory
 
 * 장기 기억 (Long Term Memory)
-	* 저장 창고와 같음. 연습과 반복이 필요. 쉽게 회상 가능
-	* 일찍 시작하고, 여러 날에 걸쳐 연습. 미루기 방지가 중요한 이유
+	* 저장 창고. 연습과 반복이 필요. 쉽게 회상
+	* 일찍 시작, 여러 날에 걸쳐 연습. 미루기 방지가 중요
 
 * 작업 기억 (Working Memory)
 	* 낡은 칠판. 4개의 목록만 저장
