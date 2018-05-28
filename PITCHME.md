@@ -1,9 +1,6 @@
 # Learning how to learn
 
-- Learning how to learn?
-- 그 외에 배운 것
-- 현실 적용
-
+* https://gitpitch.com/sylee999/TIL/learning-how-to-learn
 ---
 
 ### Why learning how to learn?
@@ -232,3 +229,8 @@
 * 미루기 방지 - 뽀모도로 기법, Habits have four parts(cue, routine, reward, belief)
 * 잘 기억하기 위해 - Memory Palace, chunk, 에빙하우스의 망각곡선
 
+### 추가
+
+* 그 외에 배운 것
+* 현실 적용
+* 
