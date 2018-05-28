@@ -35,7 +35,7 @@
 
 ---
 
-## Focused versus Diffuse Thinking
+### Focused versus Diffuse Thinking
 
 * Focused mode와 Diffuse mode
 
@@ -58,15 +58,6 @@
 * 산책, 샤워, 잠들기 전
 * 어려운 문제, 난처한 상황
 * 집중했다가 그냥 두고 여유를 가지면 의식못하는 사이 Diffused mode에서 뇌 활동
-
----
-
-## Procrastination, Memory, and Sleep
-
-* 뽀모도로 기법
-* 단기 기억 영역
-* 잠의 중요성
-* 연습
 
 ---
 
